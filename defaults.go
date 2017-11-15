@@ -106,7 +106,7 @@ var themes = map[string]Theme{
 		RepoCleanFg: 0,   // black
 		RepoCleanBg: 148, // a light green color
 		RepoDirtyFg: 15,  // white
-		RepoDirtyBg: 161, // pink/red
+		RepoDirtyBg: 160, // pink/red
 
 		JobsFg: 39,
 		JobsBg: 238,
@@ -114,7 +114,7 @@ var themes = map[string]Theme{
 		CmdPassedFg: 15,
 		CmdPassedBg: 236,
 		CmdFailedFg: 15,
-		CmdFailedBg: 161,
+		CmdFailedBg: 160,
 
 		SvnChangesFg: 22, // dark green
 		SvnChangesBg: 148,
